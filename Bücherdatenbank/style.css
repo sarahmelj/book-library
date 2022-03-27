@@ -1,0 +1,43 @@
+/* Stylesheet zur Gestaltung */
+
+/* Gestaltung Body*/
+
+body {
+  background-color: white;
+  font-family: Georgia, Arial;
+}
+
+/* Gestaltung zur Navigation und Fußzeile*/
+
+.site-nav-list,
+.site-footer {
+  background-color: #333;
+  padding: 0.5em;
+}
+
+.site-nav-list li {
+  display: inline;
+  margin-right: 1em;
+}
+
+.site-nav-list a,
+.site-footer a {
+  color: white;
+  text-decoration: none;
+}
+
+/* Gestaltung Infoboxen*/
+
+.infoboxen {
+  background-color: white;
+  padding: 1em;
+  margin-bottom: 1em;
+}
+
+.infobox {
+  text-align: center;
+  background-color: #eee;
+  padding: 1em;
+  margin: 1em;
+}
+
